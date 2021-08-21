@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "ChatApp",
-    "slug": "ChatApp",
+    "name": "Hi",
+    "slug": "Hi",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/Chat-Logo.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -23,10 +23,11 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.tharindurajapaksha.ChatApp"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/Chat-Logo.png"
     }
   }
 }
